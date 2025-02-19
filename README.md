@@ -1,4 +1,4 @@
-# Lecture1
+# Lecture 1
 
 # Objective
 Your goal is to update a specific file by adding your name to the designated area and resolving all merge conflicts. Important: You are only allowed to add names on the first line. Do not change any other part of the file.
